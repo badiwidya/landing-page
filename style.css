@@ -113,7 +113,7 @@ body {
 /* Information section */
 
 #Information {
-  height: 80vh;
+  height: 70vh;
   display: flex;
   flex-direction: column;
   padding: 40px;
@@ -159,7 +159,7 @@ body {
 
 #Quote {
   display: flex;
-  height: 80vh;
+  height: 70vh;
   background-color: #E5E7EB;
   justify-content: center;
   align-items: center;
