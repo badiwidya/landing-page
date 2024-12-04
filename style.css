@@ -186,3 +186,40 @@ body {
   font-size: 24px;
   font-weight: 600;
 }
+
+/* Action-call section */
+
+#Action-Call {
+  height: 25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.action-banner {
+  display: flex;
+  height: 50%;
+  width: 80%;
+  background-color: #3882f6;
+  border-radius: 12px;
+  padding: 1rem 10rem;
+  color: white;
+  align-items: center;
+}
+
+.action-text {
+  margin-right: auto;
+}
+
+.action-text h2,
+.action-text p {
+  margin: 0;
+}
+
+.action-banner button {
+  padding: 10px 32px;
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: #3882f6;
+  color: white;
+}
