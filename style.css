@@ -223,3 +223,14 @@ body {
   background-color: #3882f6;
   color: white;
 }
+
+/* Footer */
+
+#Footer {
+  height: 6rem;
+  background-color: #1F2937;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
